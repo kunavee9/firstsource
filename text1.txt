@@ -1,2 +1,3 @@
 i'm new to git hub and git repository
 Newfil inserted to find difference
+third line not commited
